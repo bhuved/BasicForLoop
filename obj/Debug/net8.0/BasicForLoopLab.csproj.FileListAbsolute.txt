@@ -1,0 +1,14 @@
+C:\Users\vedaa\source\repos\BasicForLoopLab\bin\Debug\net8.0\BasicForLoopLab.exe
+C:\Users\vedaa\source\repos\BasicForLoopLab\bin\Debug\net8.0\BasicForLoopLab.deps.json
+C:\Users\vedaa\source\repos\BasicForLoopLab\bin\Debug\net8.0\BasicForLoopLab.runtimeconfig.json
+C:\Users\vedaa\source\repos\BasicForLoopLab\bin\Debug\net8.0\BasicForLoopLab.dll
+C:\Users\vedaa\source\repos\BasicForLoopLab\bin\Debug\net8.0\BasicForLoopLab.pdb
+C:\Users\vedaa\source\repos\BasicForLoopLab\obj\Debug\net8.0\BasicForLoopLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vedaa\source\repos\BasicForLoopLab\obj\Debug\net8.0\BasicForLoopLab.AssemblyInfoInputs.cache
+C:\Users\vedaa\source\repos\BasicForLoopLab\obj\Debug\net8.0\BasicForLoopLab.AssemblyInfo.cs
+C:\Users\vedaa\source\repos\BasicForLoopLab\obj\Debug\net8.0\BasicForLoopLab.csproj.CoreCompileInputs.cache
+C:\Users\vedaa\source\repos\BasicForLoopLab\obj\Debug\net8.0\BasicForLoopLab.dll
+C:\Users\vedaa\source\repos\BasicForLoopLab\obj\Debug\net8.0\refint\BasicForLoopLab.dll
+C:\Users\vedaa\source\repos\BasicForLoopLab\obj\Debug\net8.0\BasicForLoopLab.pdb
+C:\Users\vedaa\source\repos\BasicForLoopLab\obj\Debug\net8.0\BasicForLoopLab.genruntimeconfig.cache
+C:\Users\vedaa\source\repos\BasicForLoopLab\obj\Debug\net8.0\ref\BasicForLoopLab.dll
